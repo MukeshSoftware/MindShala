@@ -1,0 +1,92 @@
+#logo{
+    margin: 10px 34px;
+}
+
+#logo img{
+    height: 59px;
+    margin: 3px 6px;
+}
+
+.btn btn-green
+{	font-size: 13px;
+    padding: 4px 8px;
+    border: 2px solid white;
+    background-color: brown;
+    color: black;
+    margin: 17px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    cursor:pointer;
+}
+.btn:hover {
+    background-color: rgb(136, 226, 240);
+}
+
+table{
+    margin: auto;
+}
+.btn{
+background-color: #ffe4c4;
+}
+input{
+    border-radius: 21px;
+    border: 5px solid #244624;
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+
+}
+
+h3,h5{
+    font-size: 18px;
+    font-family: 'Georgia', Courier, monospace;
+}
+marquee{
+	font-family:'Georgia';
+	background-color: #e9967a;
+}
+
+p{	font-size: 16px;
+    font-family: 'Georgia', Courier, monospace;
+}
+h2,h4{
+font-family: 'Georgia';
+}
+footer{
+    background: black;
+    color: white;
+    padding: 9px 20px;
+}
+.center{
+    text-align: center;
+}
+
+.get-in-touch {
+            position: fixed;
+            left: 0;
+            top: 50%;
+            /* after rotation this is the height */
+            margin-top: 75px;
+            /* is 50% of width */
+            transform: rotate(270deg);
+            transform-origin: 0% 0%;
+            z-index: 105;
+            transition: left 0.5s ease-in-out;
+            /* set to the upper-left corner */
+        }
+
+        .get-in-touch label {
+            color: rgb(48, 17, 160);
+            width: 150px;
+            background-color: #91e598;
+            text-align: center;
+        }
+img3{
+	float:right;
+
+}
+.navbar li a:hover,
+.navbar li a.active {
+    text-decoration: underline;
+    color: #2d1f8b;
+
