@@ -1,2 +1,2 @@
 # MindShala
-https://mukeshsoftware.github.io/MindShala/Mind-Shala.htm
+https://mukeshsoftware.github.io/MindShala/Mind-shala.htm
