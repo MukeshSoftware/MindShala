@@ -7,6 +7,10 @@
     margin: 3px 6px;
 }
 
+li{
+	float: right;
+}
+
 .btn btn-green
 {	font-size: 13px;
     padding: 4px 8px;
