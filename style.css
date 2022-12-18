@@ -64,6 +64,11 @@ footer{
 .center{
     text-align: center;
 }
+ 
+.Search{
+    float: right;
+    padding: 12px 45px;
+   
 
 .get-in-touch {
             position: fixed;
